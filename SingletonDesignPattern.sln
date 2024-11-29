@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{ADA568E5-4317-49CE-A8C0-C7EAE10E8F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA568E5-4317-49CE-A8C0-C7EAE10E8F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA568E5-4317-49CE-A8C0-C7EAE10E8F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA568E5-4317-49CE-A8C0-C7EAE10E8F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA568E5-4317-49CE-A8C0-C7EAE10E8F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C6CAE2A-C3E4-4963-B7F0-688A56A360B6}
+	EndGlobalSection
+EndGlobal
